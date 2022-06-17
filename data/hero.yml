@@ -1,0 +1,12 @@
+---
+enable: true
+title: Track stock price movement live
+caption: Wake up when it matters most.
+description: With this full-featured app all the stock market information you need is just a tap away!
+
+# View real-time quotes, global news from top publications, key details, and interactive.
+
+buttonName: Available on
+button1text: Apple Store
+button2text: Google Play
+image: images/hero/hero-image.svg

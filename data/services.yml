@@ -1,0 +1,16 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: You can benefit more than you think
+services:
+  - icon: ti-settings
+    title: No Signup required
+    description: You do not have to sign up to use our features.
+
+  - icon: ti-check-box
+    title: Free
+    description: No cost involved, including subscription fee.
+
+  - icon: ti-key
+    title: Community driven
+    description: We take your requests seriously and are always looking for ways to improve.
