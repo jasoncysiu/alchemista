@@ -1,5 +1,5 @@
 # MAIN base
-baseURL = "https://www.jason-siu.com/alchemista-lp"
+baseURL = "https://www.jason-siu.com/alchemista"
 languageCode = "en-us"
 title = "Apsho | App landing template"
 theme = "apsho-hugo-theme"
