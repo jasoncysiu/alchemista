@@ -1,8 +1,8 @@
 # MAIN base
-baseURL = "http://www.jason-siu.com/Alchemista-hugo-theme"
+baseURL = "http://www.jason-siu.com/apsho-hugo-theme"
 languageCode = "en-us"
-title = "Alchemista | App landing template   sss"
-theme = "Alchemista-hugo-theme"
+title = "Apsho | App landing template   sss"
+theme = "apsho-hugo-theme"
 
 # Navigation Bar
 [[menu.main]]
@@ -43,7 +43,7 @@ theme = "Alchemista-hugo-theme"
 # Footer Address
 [params.address]
 address = "23 Khan Niketon, Grand Street, NYK."
-email = "Alchemista@example.com"
+email = "apsho@example.com"
 phone = "+(448) 833 5272 332"
 
 # Footer Social
@@ -62,7 +62,7 @@ googleAnalytics = "UA-175025671-2"
 # Footer
 footerTitle = "Get the latest app updates"
 copyright1 = "All right reserved"
-copyright2 = "Copyright © Alchemista 2020"
+copyright2 = "Copyright © Apsho 2020"
 
 #contact
 email = "help@staticmania.com"
